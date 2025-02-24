@@ -9,6 +9,7 @@
 Commonly Used Types:
 Microsoft.Extensions.Caching.Distributed.IDistributedCache
 Microsoft.Extensions.Caching.Memory.IMemoryCache</PackageDescription>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
   <ItemGroup>
